@@ -5,7 +5,8 @@ With a new data team now in place and a strategic focus on optimizing the market
 
 [Access the dynamic dashboard here.](https://public.tableau.com/views/HealthTrustCampaign/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![image](https://cdn.discordapp.com/attachments/697171631596109875/1260723875520581693/image.png?ex=66905c1b&is=668f0a9b&hm=a42b20fb134c166e2b29b5f148008908c6c7ccac946a86be258836224870b70d&)
+![Dashboard 1](https://github.com/user-attachments/assets/fce14e34-a563-4759-956a-c64637f0d9c2)
+
 
 # Insights
 ### Marketing Metrics
